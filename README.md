@@ -66,7 +66,7 @@
 
 场景三：需要使用dnslog验证漏洞存在。例如下面这个XXE漏洞
 
-[![pFIlJhQ.png](https://s21.ax1x.com/2024/03/27/pFIlJhQ.png)](https://imgse.com/i/pFIlJhQ)
+[![pkBltyD.png](https://s21.ax1x.com/2024/06/19/pkBltyD.png)](https://imgse.com/i/pkBltyD)
 
 场景四：发送的请求包中存在字节流的数据。例如下面这个帆软反序列化漏洞。
 
