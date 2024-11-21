@@ -87,3 +87,7 @@
 5、工具提供的多线程只用于多url批量扫描的场景，一对多时的漏洞检测为单线程。
 
 6、发包测试功能和burpsuite的Repeater功能类似，粘贴完整的数据包上去然后点击发送即可。
+
+## ✨Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/mifine666/miscan.svg?variant=adaptive)](https://starchart.cc/mifine666/miscan)
